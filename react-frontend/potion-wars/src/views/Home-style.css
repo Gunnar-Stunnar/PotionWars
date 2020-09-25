@@ -1,0 +1,31 @@
+.home-cover{
+    color: #FFF;
+    font-weight: 600;
+}
+.lead{
+    color: #AAAAAA;
+    font-weight: 300;
+}
+.mainBody{
+    background-color: transparent;
+}
+
+.Background{
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    display: block;
+    height:100vh;
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603690261120555/3288949BD5D35B3BCFA9DE0B65FAADE54BBD701C/");
+    background-position: center;
+}
+.Background-Filter{
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    display: block;
+    height:100vh;
+    background-color: rgba(0,43,54,0.9);
+}

@@ -1,0 +1,10 @@
+.Background-workDesk{
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    display: block;
+    height:100vh;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2163d12-b43d-4f3f-9bd7-c6db29972708/dc6pbds-a354d62b-93ba-41e0-9b4a-1dd35eb0323b.png/v1/fill/w_894,h_894,q_70,strp/pixel_wooden_floor_texture_by_someonecalledmgee_dc6pbds-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2UyMTYzZDEyLWI0M2QtNGYzZi05YmQ3LWM2ZGIyOTk3MjcwOFwvZGM2cGJkcy1hMzU0ZDYyYi05M2JhLTQxZTAtOWI0YS0xZGQzNWViMDMyM2IucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.w-ETviqSVaZEEjJuF3gjyWlA-uhY-hUehd1YVNNmVb4");
+    background-position: center;
+}
